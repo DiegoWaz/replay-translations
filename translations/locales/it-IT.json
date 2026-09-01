@@ -6,7 +6,7 @@
                 "close": "test"
             },
             "button": {
-                "label": ""
+                "label": "Bouton"
             }
         }
     }
