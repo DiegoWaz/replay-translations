@@ -4,6 +4,9 @@
             "label": {
                 "open": "Apri",
                 "close": "Chuidi"
+            },
+            "button": {
+                "labelo": ""
             }
         }
     }
