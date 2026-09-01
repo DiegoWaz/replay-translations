@@ -4,9 +4,6 @@
             "label": {
                 "open": "test",
                 "close": "test"
-            },
-            "button": {
-                "label": "Bouton"
             }
         }
     }
