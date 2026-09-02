@@ -1,12 +1,4 @@
 {
-    "common": {
-        "action": {
-            "label": {
-                "open": ""
-            },
-            "button": {
-                "labelo": ""
-            }
-        }
-    }
+    "common.action.label.open": "",
+    "common.action.label.close": ""
 }
